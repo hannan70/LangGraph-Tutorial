@@ -3,3 +3,6 @@ langgraph
 langchain-community
 langchain-core
 langchain-groq
+langchain_openai
+arxiv
+wikipedia
